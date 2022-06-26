@@ -4,35 +4,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
-    <style type="text/css">
-      .pink {
-        color: #FC6097;
-      }
-      .orange {
-        color: #FE7D37;
-      }
-      .purple {
-        color: #978AF7;
-      }
-      .points {
-        font-family: 'Roboto Mono', monospace;
-        font-size: 10px;
-      }
-      .inlineBadge {
-        height: 12px;
-        width: auto;
-      }
-      .tools {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-      }
-      .toolIcon {
-        height: auto;
-        width: 40px;
-        margin: 5px;
-      }
-    </style>
   </head>
   <body>
   <div id="header" align="center">
