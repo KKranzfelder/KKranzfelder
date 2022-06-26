@@ -1,11 +1,7 @@
-<html>
-  <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
-  </head>
-  <body>
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
   </div>
@@ -61,7 +57,5 @@
   <hr>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkranzfelder&theme=dark"/>
-  </body>
-</html>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
