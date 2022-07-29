@@ -24,9 +24,9 @@
   </h2>
   <br>
   <ul style="font-family: 'Roboto Mono', monospace; font-size: 10px">
-   🌸 Senior at HackReactor 12 week immersive. Tentative Graduation: July 8th, 2022
+   🌸 Graduated HackReactor 12 week immersive July 8th, 2022
   <br><br>
-   🦊 Currently working on final capstone project us UI owner.
+   🦊 Currently working as part time tech artist on unreleased game.
   <br><br>
   🖌 Love bringing visions to life visually, interactively, and practically
   <br><br>
